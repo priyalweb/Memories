@@ -6,3 +6,10 @@ Implemented usingNode.JS, Express.Js, MongoDB, React, Redux, MaterialUI, CSS, Ja
 
 URL - https://your-memories-webapp.netlify.app/
 
+
+![screencapture-your-memories-webapp-netlify-app-2021-08-03-15_36_19](https://user-images.githubusercontent.com/56549165/127998130-85515434-5d30-4af8-a0d9-92a848137722.png)
+
+
+
+![screencapture-xmeme-priyal-000webhostapp-2021-06-14-01_48_46](https://user-images.githubusercontent.com/56549165/127998377-2ff52558-e287-4b4f-a4d9-db8ee93f464d.png)
+
